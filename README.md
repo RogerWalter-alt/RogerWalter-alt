@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <br>
 - ⚡ Curiosidades: gosto de aprender e tenho curiosidades sobre a area de tecnologia, com isso estou em constante evolução nos meus aprendizados, gosto de ajudar as pessoas
 e tbm curto ser ajudado quando necessário.
-
+<h1>GitHub Stats </h1> <br>
 <div>
 <a href="https://github.com/RogerWalter-alt">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerWalter-alt&layout=compact&langs_count=7&theme=dracula"/>
