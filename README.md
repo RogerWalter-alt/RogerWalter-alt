@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 Hoje estou trabalhando na area de controladoria de uma empresa multinacional.
 - 🌱 Atualmente estou em desenvolvimento em análise de dados:
 <div>
-    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/+esm"  />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
