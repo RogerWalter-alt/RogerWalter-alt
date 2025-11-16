@@ -11,8 +11,10 @@ Here are some ideas to get you started:
 <div>
      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />  
-  <img width="40" height="40"
+     <img width="40" height="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" />
+          
           
 </div>
 - 💬 Pergunte sobre mim... <br>
