@@ -10,9 +10,7 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estou em desenvolvimento em análise de dados:
 <div>
     <img width="40" height="40" src=" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
- 
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 - 💬 Pergunte sobre mim... <br>
